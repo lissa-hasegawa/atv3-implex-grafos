@@ -23,7 +23,7 @@ Este projeto é um programa em Python que gera grafos aleatórios com base em um
 
 2. **Clone este repositório ou copie o código fonte**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/lissa-hasegawa/atv3-implex-grafos.git
    cd seu-repositorio
    ```
 
